@@ -1,6 +1,6 @@
 {
   "name": "ultreon-appcenter",
-  "version": "0.2.0",
+  "version": "0.1.2",
   "private": true,
   "type": "module",
   "scripts": {
@@ -17,7 +17,8 @@
     "@tauri-apps/plugin-fs": "^2.0.0",
     "@types/react-router": "^5.1.20",
     "@types/react-router-redux": "^5.0.27",
-    "react-toastify": "^9.1.3"
+    "react-toastify": "^9.1.3",
+    "vite": "^5.4.21"
   },
   "devDependencies": {
     "@tauri-apps/api": "^2.0.2",
